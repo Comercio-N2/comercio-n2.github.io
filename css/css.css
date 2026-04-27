@@ -1,20 +1,20 @@
 body {
-    background-image: url(comercio.jpg);
+    background-image: url(lugar.jpeg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 background-attachment: fixed;
 
     
-       margin: ;
+       margin:auto;
       font-family: "Segoe UI", sans-serif;
       height: 100vh;
       display: flex;
-      justify-content: center;
+      justify-content: center; 
       align-items: center;
       overflow: hidden;
       position: relative;
-      color: rgb(0, 0, 0);
+      color: rgb(245, 245, 245);
       text-align: center;
     }
 
@@ -29,12 +29,12 @@ background-attachment: fixed;
       display: inline-block;
       padding: 22px 45px;
       font-size: 1.9rem;
-      background: #ff0000;
+      background:  #00000054;
       color: rgb(255, 255, 255);
       text-decoration: none;
       border-radius: 18px;
       font-weight: bold;
-      box-shadow: 0 5px 15px rgb(17, 0, 255);
+      box-shadow: 0 5px 15px rgb(255, 255, 255);
       transition: 0.10s;
     }
 
